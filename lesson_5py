@@ -1,0 +1,29 @@
+# mevalar=["anor","gilos","anjir","tarvuz","uzum"]
+# print(f"mevalar :{mevalar[0]}, {mevalar[1]}, {mevalar[2]}, {mevalar[3]}, {mevalar[4]}" )
+# mevalar[0]="apelsin"
+# print(mevalar)
+# print("1-meva: ", mevalar[0].title())
+# print("2-meva:",mevalar[1].capitalize())
+# print("3-meva:",mevalar[2].lower())
+# print("4-meva:",mevalar[3].upper())
+# narxlar=[12000,13000,15000,16000]
+# narxlar[0]=narxlar[0]+2000
+# print(narxlar)
+# cars=[]
+# cars.append("Mers")
+# cars.append("BMW")
+# cars.append("Bugatti")
+# print(cars)
+# cars=["lasetti","nexia ","cobalt",]
+# cars.insert(0,"BMW")
+# print(cars)
+# cars.insert(1,"Mers")
+# print(cars)
+# del cars[1]
+# print(cars)
+# cars.remove ("cobalt")
+# print(cars)
+# bozorlik=["sabzi","kartoshka","piyoz","go'sht","un","yog'","tuz"]
+# mahsulot=bozorlik.pop(3)
+# print(" Men " + mahsulot + " sotib oldim")
+# print("olinmaagan mahsulotlar", bozorlik)

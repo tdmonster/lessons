@@ -19,35 +19,35 @@
 #     kub=son**3
 #     print(f"{son}ning kvadrati {kvadrat},kubi esa {kub} ga teng")
     
-# son_darajasi()
+son_darajasi()
 
-# def son_turi():
-#     son=int(input("Son kiriting!"))
+def son_turi():
+    son=int(input("Son kiriting!"))
     
-#     if son%2==1:
-#         print(f"{son} soni toq son")
-#     else:
-#         print(f"{son} soni juft son")
+    if son%2==1:
+        print(f"{son} soni toq son")
+    else:
+        print(f"{son} soni juft son")
     
-# son_turi()
+son_turi()
 
 
 
 
 
 
-# def kattasi():
-#     son1=int(input("Son kiriting1:"))
-#     son2=int(input("Son kiriting2:"))
+def kattasi():
+    son1=int(input("Son kiriting1:"))
+    son2=int(input("Son kiriting2:"))
     
-#     if son1 >son2:
-#         print(f"{son1} soni katta son.")
+    if son1 >son2:
+        print(f"{son1} soni katta son.")
     
-#     elif son1==son2:
-#         print("Bu sonlar o'zaro teng.")
+    elif son1==son2:
+        print("Bu sonlar o'zaro teng.")
         
-#     else:
-#         print(f"{son2} soni katta son.")
+    else:
+        print(f"{son2} soni katta son.")
     
     
 # kattasi()

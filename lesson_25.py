@@ -37,16 +37,16 @@
 # print(student1)
 # print(student5)
 
-# def avto_info(model,rangi,yili,karobkasi,narx=None):
+def avto_info(model,rangi,yili,karobkasi,narx=None):
 
-#     avto={
-#         'model':model,
-#         'rangi':rangi,
-#         'yili':yili,
-#         'karobkasi':karobkasi,
-#         'narx':narx
-#         }
-#     return avto
+    avto={
+        'model':model,
+        'rangi':rangi,
+        'yili':yili,
+        'karobkasi':karobkasi,
+        'narx':narx
+        }
+    return avto
 
 # avto1=avto_info('Malibu','Qora',2021,'avtomat')
 # avto2=avto_info('Gentra','qora',2023,'avtomat',12000)
@@ -54,7 +54,7 @@
 # print("online savdoda mavjud avtomobillar :")
 # for avto in [avto1,avto2]:
 #     if avto['narx']:
-#         print(f"Modeli: {avto['model']}, Rangi: {avto['rangi']} yili:{avto['yili']},karobkasi:{avto['karobkasi']},narx:{avto['narx']} ")
+        print(f"Modeli: {avto['model']}, Rangi: {avto['rangi']} yili:{avto['yili']},karobkasi:{avto['karobkasi']},narx:{avto['narx']} ")
 #     else:
 #         print(f"{avto['model']} {avto['rangi']} {avto['yili']},karobkasi:{avto['karobkasi']} ")
 def oraliq(min,max,qadam):

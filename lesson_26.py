@@ -1,11 +1,4 @@
 
-# def avto_info(kompaniya,model,rangi,yili,karobkasi,narx=None):
-
-#     avto={'kompaniya':kompaniya,
-#         'model':model,
-#         'rangi':rangi,
-#         'yili':yili,
-#         'karobkasi':karobkasi,
 #         'narx':narx
 #         }
 #     return avto
